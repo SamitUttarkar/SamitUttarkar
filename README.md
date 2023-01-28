@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samit Uttarkar</h1>
 <h3 align="center">Well Trained Data scientist studying masters at the University of Manchester</h3>
 
-<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966.gif">
+<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samituttarkar&label=Profile%20views&color=0e75b6&style=flat" alt="samituttarkar" /> </p>
 
