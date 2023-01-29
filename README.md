@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samit Uttarkar</h1>
 <h3 align="center">Well Trained Data scientist studying masters at the University of Manchester</h3>
 
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samituttarkar&label=Profile%20views&color=0e75b6&style=flat" alt="samituttarkar" /> </p>
 
 - 🔭 I’m currently working with Optibus on developing a data file that interlinks with Optibus in an interactive way so that clients can view potential charging locations and where their current routes may be able to charge EVs. Optibus is an end-to-end, cross-functional software platform for transportation planning, scheduling, rostering, and operations based in New-York. **Optibus EV charging points for the Optibus platform**
