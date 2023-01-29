@@ -1,4 +1,4 @@
-![logo](https://github.com/SamitUttarkar/SamitUttarkar/blob/main/Github%20Banner.png){ width: 200px; }
+![logo](https://github.com/SamitUttarkar/SamitUttarkar/blob/main/Github%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Samit Uttarkar</h1>
 <h3 align="center">Well Trained Data scientist studying masters at the University of Manchester</h3>
 
