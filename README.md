@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with Optibus on developing a data file that interlinks with Optibus in an interactive way so that clients can view potential charging locations and where their current routes may be able to charge EVs. Optibus is an end-to-end, cross-functional software platform for transportation planning, scheduling, rostering, and operations based in New-York. **Optibus EV charging points for the Optibus platform**
 
-- 💼 My portfolio **samituttarkar.com**
+- 💼 My portfolio **www.samituttarkar.com**
 
 - 🌱 I’m currently learning **Neural Networks, NLP, Financial AI**
 
